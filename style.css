@@ -1,0 +1,26 @@
+h1{
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    margin-top: -10px;
+    letter-spacing: 40px;
+    font-size: medium;
+    color:blue;
+    font-weight: 6px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+h2{
+    background-color: rgb(64, 64, 238);
+    margin-top: -11px;
+    font-size: large;
+    height: 30px; 
+    color:white;
+    word-spacing: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+}
+
+P{
+    background-color: aqua;
+}
