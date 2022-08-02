@@ -2,6 +2,7 @@ h1{
     height: 30px;
     background-color: rgb(255, 255, 255);
     margin-top: -10px;
+    width: 2000px;
     letter-spacing: 40px;
     font-size: medium;
     color:blue;
@@ -9,18 +10,67 @@ h1{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
 }
-
-h2{
-    background-color: rgb(64, 64, 238);
+h3{
+  
+   text-align: center;
+    color:white;
+    font-size: 30px;
+}
+nav{
+    background-color: rgb(89, 89, 251);
+    display: flex;
     margin-top: -11px;
+    width: 2000px;
+    text-align: center;
     font-size: large;
     height: 30px; 
     color:white;
     word-spacing: 100px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align:center;
+    justify-content: space-around;
+
 }
 
 P{
-    background-color: aqua;
+    font-size: 20px;
+    text-align:center;
+   color:white;
+   width: 1800px;
 }
+h4{
+    text-align: center;
+    font-size: 30px;
+    color:white
+}
+li{
+    text-align: center;
+    width: 1700px;
+    font-size: 25px;
+    color:white
+}
+
+body{
+    background-color: rgb(64, 64, 238);
+}
+h5{
+    font-size: 28px;
+    border-style: dashed;
+    border-color: aliceblue;
+    text-align: center;
+    justify-content: space-between;
+    color:white;
+    height: 400px;
+    min-width: 10px;
+    width: 1850;
+    margin-top: 30px;
+}
+
+img{
+    height:300px;
+}
+
+.p:hover{
+    background-color:rgb(184, 184, 184);
+    opacity: 0.5;
+}
+
